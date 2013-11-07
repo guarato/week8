@@ -117,7 +117,7 @@ language=Python}
     fig = plt.figure()
     ax = fig.add_subplot()
 
-    ax1.plot(np.cos(x))
+    ax.plot(np.cos(x))
 
     plt.show()
     \end{lstlisting}
